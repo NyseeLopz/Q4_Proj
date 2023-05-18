@@ -1,0 +1,12 @@
+body {
+	margin-top: 100px;
+	background-image: url("gegg.png");
+	background-size: 100%;
+}
+.cell {
+	width: 600px;
+	padding: 10px;
+}
+.bg-color {
+	background-color: #6bfa96;
+}
